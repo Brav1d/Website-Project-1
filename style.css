@@ -37,6 +37,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    max-height: 100vh;
 }
 
 .section1 img {
@@ -115,6 +116,7 @@ img {
     padding-top: 100px;
     align-items: center;
     flex-direction: column;
+    padding-bottom: 50px;
 }
 
 .quote {
@@ -155,5 +157,14 @@ img {
 
 .asign {
     border-color: #E5E7EB;
+}
 
+.footer {
+    background-color: #1F2937;
+    align-items: center;
+    color: #E5E7EB;
+    justify-content: center;
+    display: flex;
+    padding: 40px;
+    font-size: 20px;
 }
