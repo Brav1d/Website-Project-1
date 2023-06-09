@@ -5,3 +5,5 @@ In this project I aim to recreate a design from scratch using HTML and CSS from 
 
 Image credit: Anni Roenkae on Pexels.com (https://www.pexels.com/photo/photo-of-abstract-painting-2693212/)
 
+Berry image icons made by https://www.flaticon.com/authors/icongeek26 from https://www.flaticon.com/
+
