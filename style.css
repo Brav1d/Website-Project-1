@@ -129,3 +129,31 @@ img {
     color: #1F2937;
     font-weight: 800;
 }
+
+.action {
+    display: flex;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #3882f6;
+    margin: 100px;
+    margin-left: 400px;
+    border-radius: 10px;
+    max-width: 1000px;
+}
+
+.atitle {
+    color: #E5E7EB;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.asub {
+    color: #E5E7EB;
+}
+
+.asign {
+    border-color: #E5E7EB;
+
+}
